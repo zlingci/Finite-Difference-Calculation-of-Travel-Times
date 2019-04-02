@@ -1,7 +1,7 @@
 # Finite-Difference-Calculation-of-Travel-Times
-
 codes for the paper published by John Vidale (1988) <br>
 小组成员：董晟，宋政宏，赵志远，曾令词 <br>
+![image](https://github.com/zlingci/Finite-Difference-Calculation-of-Travel-Times/blob/master/finite_diff.png)
  <br>
 ## finite_diff_main 
 the main program, you can change the grid setting here <br>
